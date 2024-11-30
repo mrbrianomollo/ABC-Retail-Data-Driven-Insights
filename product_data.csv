@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Price,StockQuantity
+1,Laptop,Electronics,999.99,20
+2,Smartphone,Electronics,499.99,30
+3,Desk, Furniture,199.99,15
+4,Office Chair,Furniture,79.99,25
+5,Coffee Maker,Kitchen,50.00,40
+6,Toaster, Kitchen,25.00,50
+7,Television,Electronics,399.99,10
+8,Air Fryer,Kitchen,,20
+9,Blender,Kitchen,45.99,
+10,Refrigerator, Appliances,799.99,5
+11,Vacuum Cleaner,Appliances,149.99,18
+12,,Electronics,129.99,12
+13,Electric Kettle,Kitchen,20.99,35
+14,Monitor,Electronics,199.99,22
+15,Couch, Furniture,499.99,8
+16,Dining Table,,349.99,6
+17,Office Supplies,Stationery,5.99,
+18,Lamp,Home Decor,24.99,30
+19,Washing Machine,Appliances,579.99,4
+20,Microwave,Kitchen,79.99,25
+21,Smartwatch,Electronics,,18
+22,Fan,Home Appliances,29.99,40
+23,Bluetooth Speaker,,59.99,20
+24,Camera, Electronics,299.99,12
+25,Electric Toothbrush,,49.99,28
+26,Hand Mixer,Kitchen,20.00,35
+27,Laptop Stand,,15.99,24
+28,Smart Thermostat,Home Automation,129.99,15
+29,Speaker,Electronics,79.99,21
+30,Bookshelf, Furniture,89.99,14
+31,Alarm Clock, Home Appliances,15.99,30
+32,Sofa, Furniture,399.99,10
+33,Portable Grill,Kitchen,55.99,18
+34,Mug, Kitchen,5.99,60
+35,Headphones,Electronics,120.00,12
+36,Shoe Rack,Furniture,39.99,28
+37,Slow Cooker,Kitchen,,32
+38,Dishwasher,Appliances,400.00,3
+39,Air Purifier, Home Appliances,99.99,10
+40,Painting, Home Decor,79.99,20
+41,Table Lamp, ,39.99,25
+42,Ceiling Fan,,49.99,22
+43,Bluetooth Earbuds,Electronics,25.99,
+44,Backpack,Fashion,29.99,35
+45,,Fashion,59.99,18
+46,Phone Charger,Electronics,9.99,50
+47,Throw Blanket,Home Decor,,30
+48,Bar Stool,Furniture,55.99,16
+49,Lawnmower,Outdoor,299.99,5
+50,Projector,Electronics,179.99,8
+51,Gaming Console,Electronics,399.99,12
+52,Bike,Outdoor,249.99,10
+53,Winter Coat,Fashion,,20
+54,Wall Clock,Home Decor,18.99,25
+55,Electric Heater,Home Appliances,59.99,15
+56,Guitar, Musical Instruments,299.99,8
+57,Drums, Musical Instruments,499.99,4
+58,Suitcase,Travel,79.99,30
+59,Printer,Electronics,129.99,18
+60,Outdoor Grill,,299.99,5
+61,Rug,Home Decor,49.99,22
+62,Waffle Maker,Kitchen,,15
+63,Wine Rack,Furniture,32.99,20
+64,Sandwich Maker,Kitchen,24.99,25
+65,Air Conditioner,Appliances,449.99,7
+66,Smart Plug,Home Automation,20.99,40
+67,Hair Dryer,Personal Care,,22
+68,Office Desk,Furniture,239.99,10
+69,Dog Bed,Pet Supplies,49.99,18
+70,Pressure Cooker, Kitchen,59.99,10
+71,Water Bottle,Outdoor,12.99,35
+72,Floor Lamp,,39.99,20
+73,Bed Frame,Furniture,199.99,8
+74,Kitchen Scale,Kitchen,,40
+75,Luggage Set,Travel,199.99,12
+76,Cat Tree,Pet Supplies,79.99,10
+77,Wardrobe,Furniture,149.99,6
+78,Bluetooth Keyboard,,29.99,30
+79,Steam Mop,Appliances,69.99,14
+80,Cutlery Set,Kitchen,39.99,25
+81,Shower Curtain,Home Decor,,18
+82,Tool Set,Tools,99.99,20
+83,Storage Bins, Home Organization,24.99,30
+84,Wi-Fi Router,Electronics,79.99,15
+85,Car Seat Covers,Auto,59.99,12
+86,Charging Station,Electronics,,30
+87,Gaming Chair,Furniture,149.99,10
+88,DVD Player,Electronics,39.99,20
+89,Digital Camera,,129.99,16
+90,Electric Grill, Kitchen,59.99,25
+91,Laundry Basket,Home Organization,14.99,40
+92,Blu-ray Player,Electronics,89.99,12
+93,Treadmill,Fitness,599.99,5
+94,Running Shoes,Fashion,79.99,20
+95,Fire Extinguisher,Home Safety,19.99,50
+96,Outdoor Tent,Outdoor,,10
+97,Fitness Tracker,Electronics,59.99,25
+98,Sleeping Bag,Outdoor,49.99,18
+99,Lawn Chair,Outdoor,39.99,15
+100,Robotic Vacuum,Appliances,299.99,8
